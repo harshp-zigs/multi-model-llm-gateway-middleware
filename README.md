@@ -71,13 +71,3 @@ The gateway chooses the model for that task, tier, cost ceiling, and data class.
 ## Get Started
 
 Ready to make your AI layer flexible? Visit [zignuts.com](https://zignuts.com/) to speak with the team.
-
-## Publish with GitHub Pages
-
-1. Add `secure-ai-api-middleware-orchestration.jpg` to the repository root.
-2. Go to **Settings > Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. The site will be available at `https://harshp-zigs.github.io/multi-model-llm-gateway-middleware/`.
-
-## Topics
-
-`llm-gateway` `multi-model` `ai-api` `vendor-lock-in` `model-routing` `middleware` `engineering-leadership`
